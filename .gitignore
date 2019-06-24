@@ -56,3 +56,4 @@ Debug/vc141.idb
 Debug/vc141.pdb
 dist/game.pdb
 dist/logs/engine.log
+*.opendb
